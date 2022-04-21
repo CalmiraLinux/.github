@@ -1,4 +1,6 @@
-# Calmira GNU/Linux(-libre)
+<h1 align="center">Calmira GNU/Linux(-libre)</h1>
+<p align="center"><a href="https://calmiralinux.github.io/phylosophy.html">Phylosophy</a> | <a href="https://github.com/CalmiraLinux/CalmiraLinux/releases">Get Calmira GNU/Linux</a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CalmiraLinux/CalmiraLinux/lx4/v1.2/design/calmira_logo_transparent.png" /></p>
 
 Calmira GNU/Linux(-libre) - это независимый дистрибутив GNU/Linux (в версии 1.2
 запланирован переход на ядро Linux-libre), следующий своей философии, чем-то
