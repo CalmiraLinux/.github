@@ -16,6 +16,7 @@ Calmira GNU/Linux(-libre) - это независимый дистрибутив
 - [Репозиторий с релизами Calmira
   GNU/Linux](https://github.com/CalmiraLinux/CalmiraLinux)
 - [Сайт дистрибутива](https://calmiralinux.github.io)
+- [Telegram канал](https://t.me/calmira_gnu_linux)
 - Руководство LX4U
 	- [Стабильная версия](https://lx4u.ru/rel/stable)
 	- [Нестабильная версия](https://lx4u.ru/dev)
